@@ -2,7 +2,7 @@
 
 This repository contains the source code for the tasks assigned to me during my internship at Bharat_Intern. The tasks include the following projects:
 
-1. [Personal Portfolio Website Source Code]https://github.com/Alok-2002/Alok-2002.github.io)
+1. [Personal Portfolio Website Source Code](https://github.com/Alok-2002/Alok-2002.github.io)
 2. [Netflix Home Page Clone Source Code](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS)
 3. [Temperature Converter Source Code](https://github.com/Alok-2002/Temperature_Wizard)
 
